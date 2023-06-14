@@ -1,4 +1,8 @@
-# Curso: "Profissão: Analista de Dados"
+<div align='center'>
+  <img src="https://github.com/ronaldoaires/ebac-analista-de-dados/assets/15646423/c4486ff7-77de-487b-bfc6-2d4012edefd9.png"/>
+</div>
+
+# Profissão: Analista de Dados
 
 Este repositório foi criado para armazenar as atividades e projetos realizados durante o curso "Profissão: Analista de Dados" oferecido pela Escola Britânica de Artes Criativas & Tecnologia (EBAC). O objetivo principal do curso é proporcionar uma base sólida nos principais conceitos e técnicas necessárias para se tornar um profissional de análise de dados.
 
