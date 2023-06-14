@@ -1,5 +1,4 @@
 # Curso: "Profissão: Analista de Dados"
-## Escola Britânica de Artes Criativas & Tecnologia (EBAC)
 
 Este repositório foi criado para armazenar as atividades e projetos realizados durante o curso "Profissão: Analista de Dados" oferecido pela Escola Britânica de Artes Criativas & Tecnologia (EBAC). O objetivo principal do curso é proporcionar uma base sólida nos principais conceitos e técnicas necessárias para se tornar um profissional de análise de dados.
 
