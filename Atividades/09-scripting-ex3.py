@@ -2,10 +2,6 @@
 
 # 3. Script de extração e visualização
 
-# Módulo | Python: Scripting
-
-# 1. Script de Extração - Script para extrair a taxa CDI do site da B3 adaptado para ser executado 10 vezes.
-
 import os
 import time
 import json
