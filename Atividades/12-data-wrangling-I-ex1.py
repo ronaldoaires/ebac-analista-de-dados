@@ -6,7 +6,7 @@ import csv
 from bs4 import BeautifulSoup
 
 # Cria um objeto BeautifulSoup com o conteúdo do arquivo HTML
-pagina = BeautifulSoup(open('./arquivos/12/fortune.html'), 'html.parser')
+pagina = BeautifulSoup(open('./arquivos/12/fortune.txt'), 'html.parser')
 
 # Encontra a tabela com a classe 'rt-table'
 tabela = pagina.find('div', {'class': 'rt-table'})
