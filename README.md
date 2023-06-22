@@ -1,6 +1,6 @@
 <div align='center'>
 
-![Logo - Escola Britânica de Artes Criativas & Tecnologia (EBAC)](https://user-images.githubusercontent.com/15646423/245732254-c4486ff7-77de-487b-bfc6-2d4012edefd9.png "Escola Britânica de Artes Criativas & Tecnologia (EBAC)")
+[![Escola Britânica de Artes Criativas & Tecnologia (EBAC)](https://user-images.githubusercontent.com/15646423/245732254-c4486ff7-77de-487b-bfc6-2d4012edefd9.png "Escola Britânica de Artes Criativas & Tecnologia (EBAC)")](https://ebaconline.com.br)
 
 </div>
 
