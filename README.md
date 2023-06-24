@@ -12,12 +12,12 @@ Durante o curso, exploramos uma variedade de tópicos, incluindo Python, anális
 
 Além disso, fomos capacitados na criação de diversos tipos de gráficos, como gráficos de correlação, distribuição, tendências e categorias. Essas habilidades de visualização de dados são fundamentais para comunicar de forma eficaz os insights obtidos a partir da análise. Também aprendemos a criar relatórios e visualizações para auxiliar na compreensão e tomada de decisões com base nos dados.
 
-Neste repositório, você encontrará exercícios, desafios e projetos desenvolvidos ao longo do curso, que representam a aplicação prática dos conhecimentos adquiridos. Eles servem como uma evidência do nosso progresso e das habilidades que desenvolvemos como analistas de dados.
+Neste repositório, você encontrará alguns dos exercícios, desafios e projetos desenvolvidos ao longo do curso, que representam a aplicação prática dos conhecimentos adquiridos. Eles servem como uma evidência do nosso progresso e das habilidades que desenvolvemos como analistas de dados.
 
 
 # Requerimentos - Como usar este repositório
 
-## Para poder explorar os arquivos desse repositório e executar no seu ambiente Python, siga estas etapas:
+**Para poder explorar os arquivos desse repositório e executar no seu ambiente Python, siga estas etapas:**
 
 1. Certifique-se de ter o Git instalado no seu sistema. Se você ainda não o tem, acesse [git-scm.com/downloads](https://git-scm.com/downloads) para baixar e instalar o Git.
 
